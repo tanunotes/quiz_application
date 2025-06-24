@@ -1,0 +1,61 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("./images/blue.avif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.quiz-container {
+  background: white;
+  padding: 2rem;
+  width: 400px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  border-radius: 10px;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgb(87, 158, 197);
+}
+
+#options button {
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  background: #d0e6ef;
+  border-radius: 5px;
+  color: black;
+}
+
+#options button:hover {
+  background-color: #6badca; /* A pleasant blue shade */
+  color: white;
+  transform: scale(1.05); /* Slightly enlarge button */
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+#feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
