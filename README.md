@@ -74,7 +74,10 @@ web-quiz-app/
 
 ## LIVE DEMO
 
+https://tanunotes.github.io/quiz_application/
+
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/bc9a4cae-ed51-4e3a-802d-6d6029c5d036)
 
 > ✅ This quiz app is a great starting point for building larger exam/test platforms. Feel free to expand with features like login, question shuffling, or local storage!
