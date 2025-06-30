@@ -1,3 +1,17 @@
+## INTERACTIVE QUIZ APP
+
+*COMPANY* :CODTECH IT SOLUTIONS
+
+*NAME* : KOYA TANUJA
+
+*DOMAIN* :FRONT END DEVELOPMENT
+
+*INTERN ID*:CT04DF1295
+
+*DURATION* :4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 # 🧠 Web Technologies Quiz App
 
 A responsive **Web Technologies Quiz Application** created using **HTML**, **CSS**, and **JavaScript**. Users can answer MCQs on web technologies, receive instant feedback, and track their score – all within a limited time frame.
